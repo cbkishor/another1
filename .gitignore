@@ -1,0 +1,8 @@
+#This is git ignore comment
+
+*.html
+*.txt
+
+style.css
+index.js
+secret.txt
